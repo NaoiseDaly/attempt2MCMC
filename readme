@@ -1,0 +1,2 @@
+This is a basic example of Gibbs sampling starting from the example in BDA3 page 277.
+The target posterior is 2D Normal with mean zero and unit variance plus a rho parameter for covariance
